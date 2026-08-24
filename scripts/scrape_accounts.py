@@ -19,7 +19,7 @@ STATE_PATH = os.path.join(REPO_ROOT, "scripts", "state.json")
 RAW_DIR = os.path.join(REPO_ROOT, "raw_jsonl")
 ACCOUNTS = [
     "dietsabya", "diet_prada", "stylenotcom", "thefashionobserve", "databutmakeitfashion",
-    "thevofashion", "bollywood_fashionpolice", "sufimotiwala", "indiarunwayweek", "theindiastylefashionweek",
+    "thevofashion", "sufimotiwala", "fashioneditindia", "fashionrevolutionindia", "mallikasinghania",
 ]
 
 os.makedirs(RAW_DIR, exist_ok=True)
@@ -114,7 +114,7 @@ def main():
                     "accessibility_caption": post.accessibility_caption,
                 }
                 new_records.append(rec)
-                time.sleep(0.5)
+                time.sleep(0.15)
         except Exception as e:
             print(f"ERROR during iteration for {username}: {e}", flush=True)
 
@@ -130,7 +130,7 @@ def main():
             "new_posts_last_run": len(new_records),
         }
         save_state(state)
-        time.sleep(2)
+        time.sleep(0.5)
 
     print("SCRAPE_DONE")
 

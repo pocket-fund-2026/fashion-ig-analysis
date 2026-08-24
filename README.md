@@ -1,6 +1,6 @@
 # Fashion IG Analysis
 
-Scraped Instagram post data (metadata only — captions, engagement stats, hashtags, mentions, post URLs) for 10 fashion-commentary accounts.
+Scraped Instagram post data (metadata only — captions, engagement stats, hashtags, mentions, post URLs) for 11 fashion-focused accounts.
 
 **Original 5 (global, last 30 days as of Aug 24, 2026):**
 - [@dietsabya](https://www.instagram.com/dietsabya)
@@ -9,12 +9,15 @@ Scraped Instagram post data (metadata only — captions, engagement stats, hasht
 - [@thefashionobserve](https://www.instagram.com/thefashionobserve)
 - [@databutmakeitfashion](https://www.instagram.com/databutmakeitfashion)
 
-**Added Aug 2026 — Indian fashion scene:**
+**Indian fashion scene (added Aug 2026, verified genuinely active and fashion-specific):**
 - [@thevofashion](https://www.instagram.com/thevofashion/) — The Voice of Fashion, a digital magazine tracking Indian fashion/design/culture
-- [@bollywood_fashionpolice](https://www.instagram.com/bollywood_fashionpolice/) — tabloid-style commentary on Bollywood celebrity fashion
 - [@sufimotiwala](https://www.instagram.com/sufimotiwala/) — personality-led red-carpet rating Reels, honest/humor-driven celebrity style reviews
-- [@indiarunwayweek](https://www.instagram.com/indiarunwayweek/) — official India Runway Week account, runway/collection coverage
-- [@theindiastylefashionweek](https://www.instagram.com/theindiastylefashionweek/) — official account for India's national-level (Delhi NCR) fashion week
+- [@elleindia](https://www.instagram.com/elleindia/) — Elle's official India edition
+- [@fashioneditindia](https://www.instagram.com/fashioneditindia/) — tracking fashion, art & culture; global fashion, designers, people
+- [@fashionrevolutionindia](https://www.instagram.com/fashionrevolutionindia/) — campaigning for a better fashion industry
+- [@mallikasinghania](https://www.instagram.com/mallikasinghania/) — fashion/beauty/lifestyle, showcasing home-grown Indian designer wear
+
+**Not currently scrapable:** 11 additional legitimate Indian fashion accounts (Vogue India, FDCI, Lakme Fashion Week, WWD India, and others) are blocked by a current Instagram API bug — see [`UNSCRAPABLE_ACCOUNTS.md`](./UNSCRAPABLE_ACCOUNTS.md) for the full list and technical explanation.
 
 ## Contents
 

@@ -184,8 +184,9 @@ Every post scraped in this dataset, grouped by account, newest first.
 - [2026-07-25](https://www.instagram.com/p/DbOHXKCikk9/) — 947.0 likes, 7 comments
 - [2026-07-25](https://www.instagram.com/p/DbN6E0biuXh/) — 3962.0 likes, 22 comments
 
-## @databutmakeitfashion (19 posts)
+## @databutmakeitfashion (20 posts)
 
+- [2026-08-24](https://www.instagram.com/p/DcbaBY0uLxc/) — hidden likes, 17 comments
 - [2026-08-21](https://www.instagram.com/p/DcTjOOZxgLw/) — 16118.0 likes, 34 comments
 - [2026-08-20](https://www.instagram.com/p/DcQ9bjBju-7/) — 28496.0 likes, 37 comments
 - [2026-08-17](https://www.instagram.com/p/DcJa6jdOKdv/) — hidden likes, 135 comments
@@ -267,3 +268,20 @@ Every post scraped in this dataset, grouped by account, newest first.
 - [2026-07-26](https://www.instagram.com/p/DbQ_zFLo2Xa/) — 473569 likes, 3207 comments
 - [2026-07-26](https://www.instagram.com/p/DbQym0AmbCU/) — 156099 likes, 1503 comments
 - [2026-07-26](https://www.instagram.com/p/DbPpMcik1Wi/) — 84639 likes, 2079 comments
+
+## @fashioneditindia (1 posts)
+
+- [2026-08-17](https://www.instagram.com/p/DcJCuiHDwW_/) — 18 likes, 0 comments
+
+## @mallikasinghania (10 posts)
+
+- [2026-08-23](https://www.instagram.com/p/DcYd7wUypug/) — 23.0 likes, 3 comments
+- [2026-08-21](https://www.instagram.com/p/DcTYviBSEAu/) — 164.0 likes, 3 comments
+- [2026-08-17](https://www.instagram.com/p/DcJB_RItpRR/) — 88.0 likes, 6 comments
+- [2026-08-14](https://www.instagram.com/p/DcBg0qSNlkO/) — 36.0 likes, 4 comments
+- [2026-08-09](https://www.instagram.com/p/DbzmtomjFXB/) — 170.0 likes, 38 comments
+- [2026-08-08](https://www.instagram.com/p/Dbx4Nhvt6ut/) — 2168.0 likes, 16 comments
+- [2026-08-07](https://www.instagram.com/p/DbvSAqtSlI_/) — 51.0 likes, 9 comments
+- [2026-08-03](https://www.instagram.com/p/DblAyHeyfv9/) — 34.0 likes, 8 comments
+- [2026-08-03](https://www.instagram.com/p/DbkEVBnknOJ/) — hidden likes, 15 comments
+- [2026-07-28](https://www.instagram.com/p/DbVcN2atgbU/) — 237.0 likes, 16 comments

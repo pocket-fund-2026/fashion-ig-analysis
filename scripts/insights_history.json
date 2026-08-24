@@ -31,5 +31,38 @@
       "thevofashion": 253.0909090909091,
       "sufimotiwala": 119467.65217391304
     }
+  },
+  {
+    "date": "2026-08-24",
+    "total_posts": 245,
+    "overall_avg_likes": 22429.49289099526,
+    "uncategorized_pct": 5.714285714285714,
+    "cat_avgs": {
+      "Uncategorized/other": 70658.53846153847,
+      "Community engagement/interactive prompt": 10857.0,
+      "Celebrity/pop-culture gossip (off-fashion)": 19346.25,
+      "Creative director/designer appointment or exit": 2892.5,
+      "Runway/show/collection recap": 24377.45,
+      "Fashion history/archive/designer profile/museum": 25086.7,
+      "Scandal/lawsuit/controversy": 22946.166666666668,
+      "Humor/meme/relatable lifestyle": 43746.333333333336,
+      "Brand launch/drop/store/pop-up": 10001.363636363636,
+      "Accessory/beauty product spotlight": 3644.3333333333335,
+      "Death/tragedy": 45066.0,
+      "Celebrity styling/endorsement/campaign": 4055.0833333333335,
+      "Style tips & trend commentary": 14006.444444444445,
+      "Culture/lifestyle crossover (art, music, festival, pride)": 1851.5,
+      "Nostalgia/throwback/pop-culture callback": 1334.5,
+      "Brand feature/editorial spotlight": 1420.5,
+      "Trend & data analysis": 20736.11111111111
+    },
+    "acct_avgs": {
+      "dietsabya": 7374.5625,
+      "diet_prada": 68620.73333333334,
+      "thefashionobserve": 3071.6111111111113,
+      "databutmakeitfashion": 24154.055555555555,
+      "thevofashion": 253.0909090909091,
+      "sufimotiwala": 119467.65217391304
+    }
   }
 ]

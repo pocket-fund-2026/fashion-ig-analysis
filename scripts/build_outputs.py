@@ -13,7 +13,7 @@ REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RAW_DIR = os.path.join(REPO_ROOT, "raw_jsonl")
 ACCOUNTS = [
     "dietsabya", "diet_prada", "stylenotcom", "thefashionobserve", "databutmakeitfashion",
-    "thevofashion", "bollywood_fashionpolice", "sufimotiwala", "indiarunwayweek", "theindiastylefashionweek",
+    "thevofashion", "sufimotiwala", "fashioneditindia", "fashionrevolutionindia", "mallikasinghania",
 ]
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
