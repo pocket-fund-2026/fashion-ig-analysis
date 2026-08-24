@@ -7,7 +7,7 @@ Researched via live web search (Aug 2026) and cross-checked against all 185 scra
 
 - **Source:** [Olivier Rousteing Is Rabanne's New Creative Director — Fashionista](https://fashionista.com/2026/07/olivier-rousteing-rabanne-creative-director)
 - **Suggested image:** Rabanne's own official announcement photo of Rousteing (from their newsroom/press site or official @rabanne / @olivierrousteing Instagram) — do not screenshot from a news article; go to the brand's or designer's own post and use/repost with credit, or license via Getty Images editorial search ("Olivier Rousteing Rabanne 2026").
-- **Image link found:** `https://images.vs-static.com/SWvXwgvL-ZAnlXCgpgxEhS9sN8Q=/0x3:892x1341/750x0/Olivier_Rousteing_Rabanne_png_090c6e0ed4/Olivier_Rousteing_Rabanne_png_090c6e0ed4.jpg` (via Vogue Scandinavia) — ⚠️ editorial/press photo owned by Vogue Scandinavia or their photo agency; needs a license or credit-with-permission before reposting, not free to use as-is.
+- **Image link found:** [Olivier Rousteing / Rabanne photo — via Vogue Scandinavia](https://images.vs-static.com/SWvXwgvL-ZAnlXCgpgxEhS9sN8Q=/0x3:892x1341/750x0/Olivier_Rousteing_Rabanne_png_090c6e0ed4/Olivier_Rousteing_Rabanne_png_090c6e0ed4.jpg) — ⚠️ shown as a link, not embedded: editorial/press photo owned by Vogue Scandinavia or their photo agency; needs a license or credit-with-permission before reposting, not free to use as-is.
 - **Draft caption:** *"okay wait we need to talk about this 👀🕶️ olivier rousteing (14 yrs at balmain!!) is officially the new creative director of rabanne, replacing julien dossena after 13 yrs at the house. his debut isn't until paris fashion week march 2027 but we already have thoughts on what a rousteing-era rabanne could look like — comment ur predictions 👇 #rabanne #olivierrousteing #creativedirector #fashionnews"*
 
 ## 2. Mass-market creative director appointments
@@ -15,7 +15,9 @@ Isaac Mizrahi was named Target's first-ever creative director at large (announce
 
 - **Source:** [Target Teams Up with Isaac Mizrahi to Shape the Future of Accessible Design — Target Corporate press release](https://corporate.target.com/press/release/2026/06/target-teams-up-with-isaac-mizrahi-to-shape-the-future-of-accessible-design)
 - **Suggested image:** Target's own official press release photo of Mizrahi (linked above) — this is the safest option since it's the brand's own distributed press image, meant for media use.
-- **Image link found:** `https://mmx.prnewswire.com/media/MS1863981/IM-Target-David_Gurzhiev-0310.jpg?id=OA2704202` — ✅ best option of the six; Target's own official PR Newswire press photo (credited to photographer David Gurzhiev, courtesy of Target), explicitly distributed for media use.
+- **Image link found:** ✅ best option of the six — Target's own official PR Newswire press photo (credited to photographer David Gurzhiev, courtesy of Target), explicitly distributed for media use:
+
+[![Isaac Mizrahi, Target press photo](https://mmx.prnewswire.com/media/MS1863981/IM-Target-David_Gurzhiev-0310.jpg?id=OA2704202)](https://corporate.target.com/press/release/2026/06/target-teams-up-with-isaac-mizrahi-to-shape-the-future-of-accessible-design)
 - **Draft caption:** *"full circle moment alert 🎯✨ isaac mizrahi — the FIRST major designer to ever collab with target back in 2002 — is now officially their first-ever creative director at large. no runway show energy here, this is a mentorship + design-strategy role, but still a huge signal that "accessible fashion" leadership is being taken seriously rn. thoughts? #target #isaacmizrahi #creativedirector #accessiblefashion"*
 
 ## 3. Lagos Fashion Week / African fashion houses
@@ -23,7 +25,9 @@ Lagos Fashion Week 2026 runs Oct 28–Nov 1 with 60+ African designers across Ni
 
 - **Source:** [Save the Date! Lagos Fashion Week 2026 Is Set for October 28 to November 1 — BellaNaija Style](https://www.bellanaijastyle.com/lagos-fashion-week-2026/)
 - **Suggested image:** An official Lagos Fashion Week / Style House Files press/runway photo (their official Instagram @lagosfashionweek or press kit) — or, ahead of the event, a simple original graphic/countdown you design yourself rather than sourcing runway photography that doesn't exist yet.
-- **Image link found:** `https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/LFDW3_-135.jpg/250px-LFDW3_-135.jpg` — ✅ Wikimedia Commons, genuinely openly licensed (Creative Commons); safe to use with attribution per its Commons license page. This is a past-years runway shot, not 2026-specific — fine as a generic illustration, not as "breaking" imagery.
+- **Image link found:** ✅ Wikimedia Commons, genuinely openly licensed (Creative Commons); safe to use with attribution per its Commons license page. This is a past-years runway shot, not 2026-specific — fine as a generic illustration, not as "breaking" imagery:
+
+[![Lagos Fashion Week runway](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/LFDW3_-135.jpg/250px-LFDW3_-135.jpg)](https://en.wikipedia.org/wiki/Lagos_Fashion_Week)
 - **Draft caption:** *"mark ur calendars 📅✨ lagos fashion week returns oct 28 – nov 1 with 60+ designers from nigeria, ghana, morocco, south africa & kenya, and this yr's theme is all about circular design + craftsmanship. we cover paris/milan/ny/london religiously so why are we always sleeping on this?? no more. #lagosfashionweek #africanfashion #fashionweek"*
 
 ## 4. Resale/secondhand fashion economics
@@ -31,7 +35,9 @@ The resale market is projected at $66–68B in 2026, growing 11x faster than tra
 
 - **Source:** [The Sustainable Fashion Resale Trend Reshaping Industry — Global Textile Times](https://www.globaltextiletimes.com/articles/the-resurgence-of-pre-loved-fashion-a-catalyst-for-sustainable-change/)
 - **Suggested image:** A licensed stock photo of a thrift/resale rack or a secondhand-clothing flat-lay (searchable on Unsplash/Pexels, which are free-to-use) — this is one of the rare stories here where free, properly-licensed stock actually fits well since it's a trend piece, not a single news event.
-- **Image link found:** `https://images.unsplash.com/photo-1637228393246-c38a4b3d2011` — ✅ Unsplash, free to use with no attribution legally required (crediting the photographer is still good practice).
+- **Image link found:** ✅ Unsplash, free to use with no attribution legally required (crediting the photographer is still good practice):
+
+[![Thrift/resale clothing rack](https://images.unsplash.com/photo-1637228393246-c38a4b3d2011)](https://unsplash.com/s/photos/thrift-store-clothing-rack)
 - **Draft caption:** *"put some respect on the resale girlies 🧵📈 the secondhand fashion market is projected to hit $66–68B in 2026 and it's growing *11x faster* than regular retail. gen z now makes up 41% of resellers. we talk data on runway trends allll day, so why are we not talking about the actual biggest fashion economy shift happening rn?? #resalefashion #secondhandfashion #circularfashion #fashiondata"*
 
 ## 5. Adaptive/disability-inclusive fashion
@@ -39,7 +45,7 @@ The resale market is projected at $66–68B in 2026, growing 11x faster than tra
 
 - **Source:** [Inclusion is In: 2026 Adaptive Inclusive Fashion Trends — Glance](https://glance.com/us/blogs/glanceai/trends/adaptive-inclusive-fashion-trends)
 - **Suggested image:** An official brand photo from an adaptive-focused label (e.g. IZ Adaptive's own site/Instagram) or Ellie Brown's London Fashion Week show imagery via her own channels/press kit — reach out or credit properly rather than screenshotting.
-- **Image link found:** `https://glance-web.glance-cdn.com/vibrant_scene_person_trying_clothes_fashion_fitting_dynamic_apparel_8d5c1c4800.jpg` — ⚠️ stock/editorial image on Glance's CDN, license unclear; verify before use or swap for an equivalent Unsplash/Pexels photo instead.
+- **Image link found:** [Adaptive fashion fitting scene — via Glance](https://glance-web.glance-cdn.com/vibrant_scene_person_trying_clothes_fashion_fitting_dynamic_apparel_8d5c1c4800.jpg) — ⚠️ shown as a link, not embedded: stock/editorial image on Glance's CDN, license unclear; verify before use or swap for an equivalent Unsplash/Pexels photo instead.
 - **Draft caption:** *"quietly one of the biggest fashion stories of 2026 and nobody's covering it 👀 adaptive fashion is going mainstream — think hidden magnetic closures, seated-cut trousers for wheelchair users, extended size ranges, even disney adding adaptive fits to park boutiques. ellie brown showed an adaptive line at london fashion week this yr too. this is what actual innovation in fashion looks like. #adaptivefashion #inclusivefashion #fashionnews"*
 
 ## 6. The AI-generated-campaign backlash
