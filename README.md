@@ -11,7 +11,8 @@ Scraped Instagram post data (metadata only — captions, engagement stats, hasht
 ## Contents
 
 - `fashion_ig_scraped_data.csv` / `.xlsx` — combined dataset, one row per post, with a per-account sheet in the Excel version. Columns: `account`, `post_url`, `date_utc`, `format`, `likes`, `comments`, `video_views`, `driver_category`, `caption`, `hashtags`, `mentions`.
-- `raw_jsonl/` — raw scraped output per account (one JSON object per post) plus each account's profile metadata (followers, following, bio) at time of scrape.
+- `raw_jsonl/` — raw scraped output per account (one JSON object per post, including a `post_url` field) plus each account's profile metadata (followers, following, bio) at time of scrape.
+- `LINKS.md` — every single scraped post's direct Instagram link, grouped by account, with date/likes/comments for quick reference.
 
 ## Method
 

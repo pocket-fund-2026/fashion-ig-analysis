@@ -1,0 +1,204 @@
+# All Scraped Post Links
+
+Every post scraped in this dataset, grouped by account, newest first.
+
+
+## @dietsabya (31 posts)
+
+- [2026-08-24](https://www.instagram.com/p/DcaiEfaHXMP/) — 1873 likes, 27 comments
+- [2026-08-23](https://www.instagram.com/p/DcXpnjSCvCU/) — 1139 likes, 203 comments
+- [2026-08-21](https://www.instagram.com/p/DcSsgx9JlrW/) — 26907 likes, 191 comments
+- [2026-08-19](https://www.instagram.com/p/DcOWatEERm-/) — 5133 likes, 127 comments
+- [2026-08-18](https://www.instagram.com/p/DcL6LLpEd2M/) — 8936 likes, 545 comments
+- [2026-08-18](https://www.instagram.com/p/DcLO1A6w3rS/) — 39644 likes, 284 comments
+- [2026-08-17](https://www.instagram.com/p/DcJQO8zkfue/) — 2759 likes, 50 comments
+- [2026-08-17](https://www.instagram.com/p/DcInV5jG6jZ/) — 6490 likes, 41 comments
+- [2026-08-16](https://www.instagram.com/p/DcGH1mKG7gf/) — 6268 likes, 183 comments
+- [2026-08-14](https://www.instagram.com/p/DcBiCJKEYcW/) — 3559 likes, 37 comments
+- [2026-08-14](https://www.instagram.com/p/DcBFbGkkTo6/) — 7564 likes, 79 comments
+- [2026-08-13](https://www.instagram.com/p/Db_MpNKitzE/) — 4665 likes, 233 comments
+- [2026-08-13](https://www.instagram.com/p/Db-iP_8iuZq/) — 11809 likes, 147 comments
+- [2026-08-12](https://www.instagram.com/p/Db8l_5UKc2C/) — 5698 likes, 274 comments
+- [2026-08-12](https://www.instagram.com/p/Db79zBwCifb/) — 5007 likes, 174 comments
+- [2026-08-11](https://www.instagram.com/p/Db57FOgKZ9z/) — 2620 likes, 322 comments
+- [2026-08-11](https://www.instagram.com/p/Db5W-hhiq_F/) — 10750 likes, 53 comments
+- [2026-08-10](https://www.instagram.com/p/Db3D2e4ikhc/) — 3202 likes, 49 comments
+- [2026-08-10](https://www.instagram.com/p/Db2pKTjisLy/) — 2515 likes, 24 comments
+- [2026-08-07](https://www.instagram.com/p/DbvGY7ECsl2/) — 5676 likes, 312 comments
+- [2026-08-06](https://www.instagram.com/p/Dbscyz-ijOe/) — 18051 likes, 140 comments
+- [2026-08-04](https://www.instagram.com/p/DbndjtCihn3/) — 5134 likes, 220 comments
+- [2026-08-03](https://www.instagram.com/p/Dbkk9qsint9/) — 7411 likes, 57 comments
+- [2026-08-01](https://www.instagram.com/p/DbgBL92CpHS/) — 5119 likes, 96 comments
+- [2026-07-31](https://www.instagram.com/p/DbdkvZKq5B9/) — 1280 likes, 151 comments
+- [2026-07-30](https://www.instagram.com/p/Dban7xJChB2/) — 7232 likes, 84 comments
+- [2026-07-29](https://www.instagram.com/p/DbYJZWNqxTY/) — 3053 likes, 22 comments
+- [2026-07-29](https://www.instagram.com/p/DbX_IR4qIhR/) — 3421 likes, 35 comments
+- [2026-07-29](https://www.instagram.com/p/DbX0SlQKGsk/) — 2960 likes, 38 comments
+- [2026-07-27](https://www.instagram.com/p/DbTi-4Vx_-_/) — 9059 likes, 155 comments
+- [2026-07-27](https://www.instagram.com/p/DbS8Le-KZk3/) — 10555 likes, 66 comments
+
+## @diet_prada (15 posts)
+
+- [2026-08-20](https://www.instagram.com/p/DcQ_Iq1Dq61/) — 63099 likes, 982 comments
+- [2026-08-18](https://www.instagram.com/p/DcMN83Slr_v/) — 53929 likes, 715 comments
+- [2026-08-17](https://www.instagram.com/p/DcJhjyXFt9q/) — 181323 likes, 2175 comments
+- [2026-08-13](https://www.instagram.com/p/Db_NGRGjkva/) — 18814 likes, 486 comments
+- [2026-08-12](https://www.instagram.com/p/Db8iu2uDqW1/) — 2926 likes, 88 comments
+- [2026-08-11](https://www.instagram.com/p/Db59z9LDk-5/) — 4061 likes, 90 comments
+- [2026-08-11](https://www.instagram.com/p/Db5sT2UDpCQ/) — 9091 likes, 658 comments
+- [2026-08-06](https://www.instagram.com/p/Dbtai46n5Jh/) — 3195 likes, 160 comments
+- [2026-08-05](https://www.instagram.com/p/Dbq1rMtHwoY/) — 10756 likes, 269 comments
+- [2026-08-04](https://www.instagram.com/p/DboBYuLDqnj/) — 54697 likes, 1128 comments
+- [2026-08-03](https://www.instagram.com/p/DblUSjLjiZa/) — 74660 likes, 690 comments
+- [2026-07-30](https://www.instagram.com/p/DbbGuTHjsU_/) — 122154 likes, 3129 comments
+- [2026-07-29](https://www.instagram.com/p/DbYjX4CjnDO/) — 74098 likes, 793 comments
+- [2026-07-28](https://www.instagram.com/p/DbV5B40jncr/) — 328707 likes, 2497 comments
+- [2026-07-27](https://www.instagram.com/p/DbTXCiQjvWo/) — 27801 likes, 282 comments
+
+## @stylenotcom (6 posts)
+
+- [2026-08-20](https://www.instagram.com/p/DcQW0hUDT2B/) — hidden likes, 28 comments
+- [2026-08-18](https://www.instagram.com/p/DcLrTlnttx-/) — hidden likes, 259 comments
+- [2026-08-17](https://www.instagram.com/p/DcJHgSXjR91/) — hidden likes, 0 comments
+- [2026-08-12](https://www.instagram.com/p/Db7rxntjcZV/) — hidden likes, 33 comments
+- [2026-08-06](https://www.instagram.com/p/DbtAP1lt58S/) — hidden likes, 89 comments
+- [2026-07-31](https://www.instagram.com/p/DbePuH3jQFa/) — hidden likes, 120 comments
+
+## @thefashionobserve (114 posts)
+
+- [2026-08-23](https://www.instagram.com/p/DcZq58nCmj9/) — 1645 likes, 7 comments
+- [2026-08-23](https://www.instagram.com/p/DcZVF73igv0/) — 777 likes, 10 comments
+- [2026-08-23](https://www.instagram.com/p/DcYrzoVCkcG/) — 2649 likes, 257 comments
+- [2026-08-22](https://www.instagram.com/p/DcWtPvbqNdK/) — 859 likes, 0 comments
+- [2026-08-22](https://www.instagram.com/p/DcWg_Apii2s/) — 595 likes, 1 comments
+- [2026-08-22](https://www.instagram.com/p/DcWXzYQiqHQ/) — 4153 likes, 3 comments
+- [2026-08-22](https://www.instagram.com/p/DcV35adCgVI/) — hidden likes, 0 comments
+- [2026-08-21](https://www.instagram.com/p/DcTztjQCu28/) — hidden likes, 2 comments
+- [2026-08-21](https://www.instagram.com/p/DcTo56WikEX/) — hidden likes, 2 comments
+- [2026-08-21](https://www.instagram.com/p/DcTSorvClQY/) — 1226 likes, 19 comments
+- [2026-08-21](https://www.instagram.com/p/DcTB--8ivDy/) — hidden likes, 3 comments
+- [2026-08-21](https://www.instagram.com/p/DcSgQY8Cu6V/) — 1642 likes, 12 comments
+- [2026-08-21](https://www.instagram.com/p/DcSDI_bCpHm/) — hidden likes, 4 comments
+- [2026-08-20](https://www.instagram.com/p/DcR05drCmZM/) — 946 likes, 5 comments
+- [2026-08-20](https://www.instagram.com/p/DcRpvRligCi/) — 1713 likes, 71 comments
+- [2026-08-20](https://www.instagram.com/p/DcQ43KAiioT/) — 2343 likes, 27 comments
+- [2026-08-20](https://www.instagram.com/p/DcP5jdfCm-j/) — 1813 likes, 12 comments
+- [2026-08-19](https://www.instagram.com/p/DcPZfc3Cvgb/) — 910 likes, 5 comments
+- [2026-08-19](https://www.instagram.com/p/DcPSiqsihzs/) — 3461 likes, 80 comments
+- [2026-08-19](https://www.instagram.com/p/DcOwGH_Ctdu/) — 1906 likes, 24 comments
+- [2026-08-19](https://www.instagram.com/p/DcOY6yUK1So/) — 538 likes, 4 comments
+- [2026-08-19](https://www.instagram.com/p/DcOSqDNius8/) — 981 likes, 14 comments
+- [2026-08-19](https://www.instagram.com/p/DcOBSjniuu4/) — hidden likes, 3 comments
+- [2026-08-19](https://www.instagram.com/p/DcNEUkXChtr/) — 5902 likes, 58 comments
+- [2026-08-18](https://www.instagram.com/p/DcMs8clCus8/) — 1782 likes, 7 comments
+- [2026-08-18](https://www.instagram.com/p/DcMmVvmivFv/) — 2793 likes, 47 comments
+- [2026-08-18](https://www.instagram.com/p/DcMX17KCjwc/) — 1380 likes, 9 comments
+- [2026-08-18](https://www.instagram.com/p/DcMDjb7Ci6R/) — 6232 likes, 56 comments
+- [2026-08-18](https://www.instagram.com/p/DcKT7C2ipBG/) — 2462 likes, 15 comments
+- [2026-08-17](https://www.instagram.com/p/DcKNncQim9x/) — hidden likes, 18 comments
+- [2026-08-17](https://www.instagram.com/p/DcJ4UDJCnFf/) — 1907 likes, 23 comments
+- [2026-08-17](https://www.instagram.com/p/DcJGD8hCqKR/) — 1423 likes, 32 comments
+- [2026-08-17](https://www.instagram.com/p/DcI3X45irEq/) — 1336 likes, 4 comments
+- [2026-08-16](https://www.instagram.com/p/DcGtJFKiq3t/) — 2465 likes, 9 comments
+- [2026-08-16](https://www.instagram.com/p/DcGdQCyKqEg/) — 460 likes, 3 comments
+- [2026-08-16](https://www.instagram.com/p/DcGR2zKCojZ/) — 3092 likes, 24 comments
+- [2026-08-16](https://www.instagram.com/p/DcGIYDBiiOX/) — hidden likes, 11 comments
+- [2026-08-15](https://www.instagram.com/p/DcEDZ94itHv/) — 4878 likes, 128 comments
+- [2026-08-15](https://www.instagram.com/p/DcD_GJyitLU/) — 822 likes, 0 comments
+- [2026-08-15](https://www.instagram.com/p/DcD7kI8Ch1g/) — 4373 likes, 18 comments
+- [2026-08-15](https://www.instagram.com/p/DcDfyALimqC/) — 1076 likes, 8 comments
+- [2026-08-15](https://www.instagram.com/p/DcCtSrYipgb/) — 6414 likes, 25 comments
+- [2026-08-14](https://www.instagram.com/p/DcCaHbFirkP/) — 1488 likes, 14 comments
+- [2026-08-14](https://www.instagram.com/p/DcB_e0dCohF/) — hidden likes, 7 comments
+- [2026-08-13](https://www.instagram.com/p/Db_6iPhClg-/) — 1616 likes, 28 comments
+- [2026-08-13](https://www.instagram.com/p/Db_v-WFCpzI/) — hidden likes, 3 comments
+- [2026-08-13](https://www.instagram.com/p/Db-21yBigpN/) — hidden likes, 12 comments
+- [2026-08-12](https://www.instagram.com/p/Db8nE2AihOc/) — 2979 likes, 17 comments
+- [2026-08-12](https://www.instagram.com/p/Db8bOi5CjSC/) — hidden likes, 5 comments
+- [2026-08-12](https://www.instagram.com/p/Db75nBVipSe/) — 816 likes, 21 comments
+- [2026-08-12](https://www.instagram.com/p/Db7u2exipLC/) — 2653 likes, 17 comments
+- [2026-08-11](https://www.instagram.com/p/Db6afkWkQP0/) — 1800 likes, 7 comments
+- [2026-08-11](https://www.instagram.com/p/Db6Sxziiovy/) — 2061 likes, 7 comments
+- [2026-08-11](https://www.instagram.com/p/Db4fYLDCgbG/) — 1430 likes, 24 comments
+- [2026-08-10](https://www.instagram.com/p/Db3-sz2iopa/) — hidden likes, 5 comments
+- [2026-08-10](https://www.instagram.com/p/Db3pTnXino3/) — 9883 likes, 17 comments
+- [2026-08-10](https://www.instagram.com/p/Db2vbrOioKQ/) — 5079 likes, 117 comments
+- [2026-08-09](https://www.instagram.com/p/Db1fcDfip54/) — 3482 likes, 14 comments
+- [2026-08-09](https://www.instagram.com/p/Db1empQiuuI/) — hidden likes, 3 comments
+- [2026-08-09](https://www.instagram.com/p/Db1ZQHQCpwF/) — 2667 likes, 24 comments
+- [2026-08-09](https://www.instagram.com/p/Db06GPzCnlG/) — 1459 likes, 1 comments
+- [2026-08-09](https://www.instagram.com/p/Db0grmOiuoX/) — 4739 likes, 8 comments
+- [2026-08-09](https://www.instagram.com/p/DbzUKR0CiTc/) — 3682 likes, 32 comments
+- [2026-08-09](https://www.instagram.com/p/DbzRR1aiq4U/) — 8628 likes, 32 comments
+- [2026-08-08](https://www.instagram.com/p/DbyhkgWCsRo/) — hidden likes, 0 comments
+- [2026-08-08](https://www.instagram.com/p/Dbx7AXDClUG/) — 1667 likes, 17 comments
+- [2026-08-07](https://www.instagram.com/p/DbwQ_OAit-W/) — 4096 likes, 6 comments
+- [2026-08-07](https://www.instagram.com/p/Dbvs62EinQT/) — hidden likes, 12 comments
+- [2026-08-07](https://www.instagram.com/p/DbvYZuiCpaC/) — 1522 likes, 39 comments
+- [2026-08-07](https://www.instagram.com/p/DbuBhnuChJW/) — 1768 likes, 2 comments
+- [2026-08-06](https://www.instagram.com/p/Dbt7qGFilm9/) — hidden likes, 20 comments
+- [2026-08-06](https://www.instagram.com/p/DbtigMQCibB/) — hidden likes, 3 comments
+- [2026-08-06](https://www.instagram.com/p/DbtVqt1Cj-E/) — 1993 likes, 7 comments
+- [2026-08-06](https://www.instagram.com/p/Dbsp-rTCiSD/) — 1578 likes, 34 comments
+- [2026-08-05](https://www.instagram.com/p/DbrQ5gAirh0/) — 5660 likes, 10 comments
+- [2026-08-05](https://www.instagram.com/p/DbqMawwisse/) — 2701 likes, 8 comments
+- [2026-08-05](https://www.instagram.com/p/DbqKXLQij0Y/) — hidden likes, 0 comments
+- [2026-08-05](https://www.instagram.com/p/Dbp_4fICijD/) — 2215 likes, 0 comments
+- [2026-08-04](https://www.instagram.com/p/DbomVuZiqSp/) — 1000 likes, 10 comments
+- [2026-08-04](https://www.instagram.com/p/DbnzFyzCofN/) — 2995 likes, 6 comments
+- [2026-08-04](https://www.instagram.com/p/DbnWzyHCuuP/) — hidden likes, 1 comments
+- [2026-08-03](https://www.instagram.com/p/Dblua1VKpZp/) — hidden likes, 10 comments
+- [2026-08-03](https://www.instagram.com/p/Dblk3laipL8/) — 904 likes, 6 comments
+- [2026-08-03](https://www.instagram.com/p/DblhIWBCvm2/) — 2121 likes, 40 comments
+- [2026-08-02](https://www.instagram.com/p/Dbi9W2wisJG/) — 3062 likes, 20 comments
+- [2026-08-02](https://www.instagram.com/p/DbiTz-sijjY/) — 7112 likes, 38 comments
+- [2026-08-02](https://www.instagram.com/p/DbhFN1fioAD/) — 8558 likes, 39 comments
+- [2026-08-01](https://www.instagram.com/p/DbgCJ49iroN/) — 6988 likes, 464 comments
+- [2026-08-01](https://www.instagram.com/p/Dbf7hGFCh5b/) — 2074 likes, 15 comments
+- [2026-08-01](https://www.instagram.com/p/Dbf38aiivOv/) — 1794 likes, 11 comments
+- [2026-07-31](https://www.instagram.com/p/DbegEeRijJi/) — 8094 likes, 60 comments
+- [2026-07-31](https://www.instagram.com/p/DbeEWnrit_T/) — 1116 likes, 1 comments
+- [2026-07-31](https://www.instagram.com/p/Dbdrz1_CkvB/) — 12864 likes, 131 comments
+- [2026-07-30](https://www.instagram.com/p/DbarZyICt0E/) — 2647 likes, 15 comments
+- [2026-07-30](https://www.instagram.com/p/DbaiAwxigKj/) — hidden likes, 7 comments
+- [2026-07-30](https://www.instagram.com/p/DbadtzxCssU/) — 12656 likes, 16 comments
+- [2026-07-30](https://www.instagram.com/p/DbaVJJICsnG/) — hidden likes, 6 comments
+- [2026-07-29](https://www.instagram.com/p/DbZVA0sikAF/) — 3418 likes, 35 comments
+- [2026-07-29](https://www.instagram.com/p/DbZTd0ZCpIZ/) — 2195 likes, 39 comments
+- [2026-07-29](https://www.instagram.com/p/DbYuhKhCi4j/) — hidden likes, 6 comments
+- [2026-07-29](https://www.instagram.com/p/DbYeSCkCp6I/) — 1970 likes, 29 comments
+- [2026-07-29](https://www.instagram.com/p/DbYIfc_irM6/) — 2277 likes, 12 comments
+- [2026-07-28](https://www.instagram.com/p/DbWvJUsioDi/) — 2578 likes, 4 comments
+- [2026-07-28](https://www.instagram.com/p/DbWFpjfCk_W/) — hidden likes, 4 comments
+- [2026-07-28](https://www.instagram.com/p/DbVCF7BCrb1/) — 9487 likes, 147 comments
+- [2026-07-27](https://www.instagram.com/p/DbT-BWoKfe5/) — hidden likes, 11 comments
+- [2026-07-27](https://www.instagram.com/p/DbS4s83ijfW/) — 652 likes, 5 comments
+- [2026-07-26](https://www.instagram.com/p/DbRcQ4LCiSv/) — 1534 likes, 8 comments
+- [2026-07-26](https://www.instagram.com/p/DbRGxW5Cr9M/) — 2548 likes, 8 comments
+- [2026-07-26](https://www.instagram.com/p/DbQqaCAigu_/) — 10987 likes, 38 comments
+- [2026-07-25](https://www.instagram.com/p/DbOwLx7CnAt/) — 2701 likes, 45 comments
+- [2026-07-25](https://www.instagram.com/p/DbOi6aACqWI/) — 1523 likes, 9 comments
+- [2026-07-25](https://www.instagram.com/p/DbOHXKCikk9/) — 947 likes, 7 comments
+- [2026-07-25](https://www.instagram.com/p/DbN6E0biuXh/) — 3962 likes, 22 comments
+
+## @databutmakeitfashion (19 posts)
+
+- [2026-08-21](https://www.instagram.com/p/DcTjOOZxgLw/) — 16118 likes, 34 comments
+- [2026-08-20](https://www.instagram.com/p/DcQ9bjBju-7/) — 28496 likes, 37 comments
+- [2026-08-17](https://www.instagram.com/p/DcJa6jdOKdv/) — hidden likes, 135 comments
+- [2026-08-17](https://www.instagram.com/p/DcJNb8lDsYT/) — 41327 likes, 343 comments
+- [2026-08-15](https://www.instagram.com/p/DcERVdyjtdw/) — 8989 likes, 18 comments
+- [2026-08-15](https://www.instagram.com/p/DcC3nDrus-i/) — 44152 likes, 101 comments
+- [2026-08-13](https://www.instagram.com/p/Db_cw_ClH8R/) — 6020 likes, 64 comments
+- [2026-08-11](https://www.instagram.com/p/Db52WYDuGld/) — 22971 likes, 194 comments
+- [2026-08-10](https://www.instagram.com/p/Db3hMM6pvP5/) — 53925 likes, 510 comments
+- [2026-08-10](https://www.instagram.com/p/Db3X1_FjoBv/) — 23032 likes, 41 comments
+- [2026-08-07](https://www.instagram.com/p/Dbvm5Q1OQBR/) — 32513 likes, 38 comments
+- [2026-08-06](https://www.instagram.com/p/Dbs4Ho_uqYG/) — 10391 likes, 41 comments
+- [2026-08-05](https://www.instagram.com/p/DbqayBCjhgs/) — 16445 likes, 21 comments
+- [2026-08-02](https://www.instagram.com/p/DbiykxCjoaS/) — 33089 likes, 75 comments
+- [2026-08-01](https://www.instagram.com/p/DbgCJhwOBr1/) — 15838 likes, 25 comments
+- [2026-07-29](https://www.instagram.com/p/DbYQgJADmCG/) — 17444 likes, 47 comments
+- [2026-07-28](https://www.instagram.com/p/DbV7Bfzjnsf/) — 29561 likes, 413 comments
+- [2026-07-27](https://www.instagram.com/p/DbTrv1up9I-/) — 23920 likes, 33 comments
+- [2026-07-27](https://www.instagram.com/p/DbTpd6MJLLh/) — 10542 likes, 41 comments
