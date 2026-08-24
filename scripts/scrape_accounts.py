@@ -70,7 +70,9 @@ def main():
         if last_scraped_iso:
             cutoff = datetime.datetime.fromisoformat(last_scraped_iso).replace(tzinfo=None)
         else:
-            cutoff = datetime.datetime.utcnow() - datetime.timedelta(days=8)
+            # first-time backfill depth; override with e.g. BACKFILL_DAYS=30 for a deeper one-time pull
+            backfill_days = int(os.environ.get("BACKFILL_DAYS", "8"))
+            cutoff = datetime.datetime.utcnow() - datetime.timedelta(days=backfill_days)
 
         raw_path = os.path.join(RAW_DIR, f"{username}.jsonl")
         seen_shortcodes = load_existing_shortcodes(raw_path)

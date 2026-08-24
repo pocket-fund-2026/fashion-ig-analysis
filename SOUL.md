@@ -4,7 +4,7 @@
 
 **The goal of this project is to run a new Instagram page that works like the successful fashion-commentary accounts studied here — not to copy them, but to operate on the same proven mechanics.** Everything in this repo — the scraping, the categorization, the trend checks, the whitespace research — exists in service of that one goal: building and running a page that gets real traction in this specific niche, based on evidence of what actually works rather than guesswork or imitation of surface style.
 
-"Similar" here means *functionally* similar — same engagement mechanics, same sourcing discipline, same posting instincts — not a clone of any one account's voice or topics. The new page needs its own identity. What it borrows is the *operating logic* underneath five different accounts that have each, in their own way, figured out how to win in this space.
+"Similar" here means *functionally* similar — same engagement mechanics, same sourcing discipline, same posting instincts — not a clone of any one account's voice or topics. The new page needs its own identity. What it borrows is the *operating logic* underneath ten different accounts (5 global, 5 India-focused) that have each, in their own way, figured out how to win in this space.
 
 ## Why an evidence-based approach instead of just starting
 
@@ -15,9 +15,11 @@ Anyone can open Instagram and start posting fashion opinions. That's a bet, not 
 - Where there's real, current, uncovered ground, so the new page can own something from day one instead of blending into a crowded field
 - What the actual operating rhythm of a working account looks like — sourcing habits, posting cadence, voice consistency — not just "post fashion content and see what happens"
 
-This project answers all four by treating five established accounts as a dataset instead of just scrolling them, then goes further by checking what's happening in the wider fashion world right now that none of them have picked up yet.
+This project answers all four by treating ten established accounts as a dataset instead of just scrolling them, then goes further by checking what's happening in the wider fashion world right now that none of them have picked up yet.
 
-## The five reference accounts, and what each one proves is possible
+## The ten reference accounts, and what each one proves is possible
+
+**Global (original 5):**
 
 | Account | What it demonstrates |
 |---|---|
@@ -27,7 +29,17 @@ This project answers all four by treating five established accounts as a dataset
 | **@thefashionobserve** | Volume has its own value: posting ~4x/day builds a rolling-feed presence and audience familiarity even though individual posts underperform the lower-volume accounts. It also proves a small content team can run sibling verticals (beauty, lifestyle) off one operating model. |
 | **@databutmakeitfashion** | A named, personal-brand creator can use Instagram as a distribution layer for a real owned asset (a 30,000+ subscriber Substack) rather than chasing IG likes as the end goal — a fundamentally different, arguably more durable growth model. |
 
-None of these is "the" model to copy. They're five different, internally consistent answers to the same problem, and the new page should consciously choose which combination of these traits to adopt rather than drifting into an accidental mix.
+**India-focused (added Aug 2026):**
+
+| Account | What it demonstrates |
+|---|---|
+| **@thevofashion** | A polished digital-magazine format (not gossip/tabloid) can still work as an Instagram presence — proof that the "editorial outlet" archetype has a viable India-specific lane, distinct from watchdog/aggregator accounts. |
+| **@bollywood_fashionpolice** | Tabloid-style celebrity fashion critique translates directly into the Indian market — the same "who wore it worse" mechanic that works globally works locally when applied to Bollywood red-carpet culture. |
+| **@sufimotiwala** | A single personality can out-perform anonymous/institutional accounts through video-first, humor-driven reviews — proof that voice and personality can be the differentiator instead of anonymity or aggregation scale. |
+| **@indiarunwayweek** | An official fashion-week account can function as a content source in its own right, not just an event listing — useful as both a coverage subject and a potential source relationship. |
+| **@theindiastylefashionweek** | (Currently failing to scrape — a live example that even "obvious" official accounts can have data-access friction; worth periodically re-checking rather than assuming permanent failure.) |
+
+None of these is "the" model to copy. They're ten different, internally consistent answers to the same problem, and the new page should consciously choose which combination of these traits to adopt rather than drifting into an accidental mix.
 
 ## What actually drives engagement (the hard evidence)
 
