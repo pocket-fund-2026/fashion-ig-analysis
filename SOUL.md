@@ -1,35 +1,84 @@
 # SOUL.md — Why This Exists
 
-## What this actually is
+## The mission, stated plainly
 
-This repo is the research foundation for launching a new fashion-commentary Instagram account. It's not just "scraped data" — it's a working answer to the question *"what actually makes a fashion account succeed, and where is there room for a new one?"*, built from real evidence instead of guesswork.
+**The goal of this project is to run a new Instagram page that works like the successful fashion-commentary accounts studied here — not to copy them, but to operate on the same proven mechanics.** Everything in this repo — the scraping, the categorization, the trend checks, the whitespace research — exists in service of that one goal: building and running a page that gets real traction in this specific niche, based on evidence of what actually works rather than guesswork or imitation of surface style.
 
-## Why I'm doing this
+"Similar" here means *functionally* similar — same engagement mechanics, same sourcing discipline, same posting instincts — not a clone of any one account's voice or topics. The new page needs its own identity. What it borrows is the *operating logic* underneath five different accounts that have each, in their own way, figured out how to win in this space.
 
-Anyone can start a fashion Instagram account and post about runway shows and hope it works. That's not a strategy — it's a bet. Before spending time building a page, publishing content, and trying to grow an audience, it's worth actually knowing:
+## Why an evidence-based approach instead of just starting
 
-- What kind of fashion content already gets traction, and why
-- Which accounts are already dominating which lanes, so effort isn't wasted competing head-on where five other accounts already win
-- Where there's real, current, uncovered ground — so the new account has something to actually own from day one instead of blending in
+Anyone can open Instagram and start posting fashion opinions. That's a bet, not a strategy. Before committing real time to building an audience, it's worth actually knowing:
 
-This project answers all three by treating five established fashion accounts as a dataset instead of just scrolling them.
+- What kind of fashion content reliably gets traction, and *why* — not assumed, measured
+- Which accounts already dominate which lanes, so effort isn't wasted competing head-on where five accounts already win
+- Where there's real, current, uncovered ground, so the new page can own something from day one instead of blending into a crowded field
+- What the actual operating rhythm of a working account looks like — sourcing habits, posting cadence, voice consistency — not just "post fashion content and see what happens"
 
-## What it's actually doing, mechanically
+This project answers all four by treating five established accounts as a dataset instead of just scrolling them, then goes further by checking what's happening in the wider fashion world right now that none of them have picked up yet.
 
-1. **Scraping** — pulling real post data (likes, comments, views, captions, hashtags, timestamps) from 5 fashion-commentary Instagram accounts (@dietsabya, @diet_prada, @stylenotcom, @thefashionobserve, @databutmakeitfashion) using Instaloader, no login required, public data only.
-2. **Categorizing** — tagging every post with what likely drove its engagement (death/tragedy, scandal, creative director news, runway recap, brand launch, etc.) so patterns become visible instead of anecdotal.
-3. **Measuring** — comparing average engagement across categories, formats (video vs. image), and accounts to find out what's actually true, not what's assumed to be true (e.g. the surprising finding that these accounts' branded "content pillars" often underperform compared to reactive breaking-news posts).
-4. **Finding whitespace** — going beyond the 5 accounts to the live web to find real, current fashion stories none of them are covering, so a new account has an original angle instead of a copy of an existing one.
-5. **Repeating weekly** — an automated pipeline re-scrapes, re-checks Google Trends, and regenerates fresh content ideas every week, so this stays a living research base instead of a one-time snapshot that goes stale.
+## The five reference accounts, and what each one proves is possible
 
-## How this is meant to be used
+| Account | What it demonstrates |
+|---|---|
+| **@dietsabya** | A tightly anonymous account (follows only 19 others) can build a loyal, culturally fluent audience through original reporting, archival nostalgia, and a distinctive regional voice — without needing to compete on volume. |
+| **@diet_prada** | The single highest per-post payoff in this dataset comes from following universally viral news (not niche fashion news) through a fashion-adjacent lens — proof that "fashion account" doesn't mean "fashion-only content." |
+| **@stylenotcom** | Speed and brevity alone can carry an account — 6 posts in 30 days still generated real engagement because each one was fast, urgent, and tightly scoped to breaking news. |
+| **@thefashionobserve** | Volume has its own value: posting ~4x/day builds a rolling-feed presence and audience familiarity even though individual posts underperform the lower-volume accounts. It also proves a small content team can run sibling verticals (beauty, lifestyle) off one operating model. |
+| **@databutmakeitfashion** | A named, personal-brand creator can use Instagram as a distribution layer for a real owned asset (a 30,000+ subscriber Substack) rather than chasing IG likes as the end goal — a fundamentally different, arguably more durable growth model. |
 
-- **Before posting anything**, check `WHITESPACE.md` and `CONTENT_IDEAS.md` for angles that are proven-to-work *and* currently uncovered — that's the highest-leverage starting point.
-- **When deciding on voice/format**, read `README.md`'s account summaries — five very different working models (anonymous tabloid, first-person data-analyst, high-volume aggregator, etc.) already exist as reference points; pick traits deliberately instead of drifting into whichever voice feels natural.
-- **When something in fashion news breaks**, check the driver-category data (`fashion_ig_scraped_data.csv`) to gut-check whether it's the kind of story that tends to perform (death/tragedy, scandal, creative-director shakeups) before deciding how much effort to put into covering it fast.
-- **Every week**, the pipeline (`scripts/`) adds fresh data automatically — treat `CONTENT_IDEAS.md` as a living planning document, not a one-time deliverable, and revisit it each week before planning that week's posts.
-- **When the new account starts posting its own content**, its own performance data can eventually be added back into this same structure — turning this from "research about other people's accounts" into "an ongoing feedback loop for my own."
+None of these is "the" model to copy. They're five different, internally consistent answers to the same problem, and the new page should consciously choose which combination of these traits to adopt rather than drifting into an accidental mix.
+
+## What actually drives engagement (the hard evidence)
+
+Across 185 posts analyzed in the last-30-days window:
+
+- **Death/tragedy news**: 3.47x the baseline average likes — the single strongest driver found
+- **Scandal/lawsuit/controversy**: 2.45x baseline
+- **Brand drop/launch**: 1.70x baseline
+- **Creative director/designer appointment or exit**: consistently among the top-performing categories, and the subject of the single highest-performing post found in the full-archive analysis (Chanel's Matthieu Blazy debut)
+- **Video beats static images** consistently, roughly 1.3–2x depending on the account
+- **The accounts' own "signature" branded content (data charts, trend analysis) actually underperforms** compared to fast reactions to real news — meaning the thing an account is known for and the thing that actually gets it likes are often two different things
+
+The uncomfortable implication: fashion is often the *lens*, not the *hook*. The hook is usually something emotionally charged — urgency, loss, controversy — and fashion framing is what makes it feel like it belongs on this kind of page.
+
+## Who's actually shaping this space right now
+
+The recurring subjects worth tracking closely, because they're proven to drive engagement whenever they're in the news:
+
+- **Creative directors in active flux**: Matthieu Blazy (Chanel, ex-Bottega Veneta), Jonathan Anderson (Dior), Pierpaolo Piccioli (Balenciaga), Louise Trotter (Bottega Veneta), Alessandro Michele (Valentino), Olivier Rousteing (departed Balmain, now at Rabanne), Seán McGirr (McQueen)
+- **A wider peer network of independent fashion analysts**: the 8 Substack writers @databutmakeitfashion cross-promotes (Mandy Lee's @cyclical, @sportsverse, @trademarked, @allthingsfashiontech, @manu_infashion, @brendstack, @themolehill, @mustbemargiela's mind) — worth reading regularly as both inspiration and a pulse-check on what the informed fashion-commentary audience is already discussing
+- **Industry figures whose deaths/exits are newsworthy beyond the celebrity tier**: e.g. Mathilde Favier (Dior PR director) — proof that "industry insider" deaths carry real engagement even without mainstream celebrity status
+
+See `README.md` and the full driver-tagged dataset for the complete list and sourcing.
+
+## Where the real information comes from (sourcing discipline)
+
+The accounts studied here source content through a few repeatable patterns, all worth adopting:
+
+1. **Fast reaction to breaking industry news** — the single biggest lever. This requires monitoring, not waiting to stumble onto news.
+2. **Original reporting/interviews** (as @dietsabya does) — a small amount of original access beats pure aggregation for building a distinct identity.
+3. **Self-run trend analysis** (as @databutmakeitfashion does) — Google Trends, Pinterest Trends, and simple sentiment analysis over scraped articles/posts turn "vibes" into shareable, chart-able claims.
+4. **A tight monitoring network** — following the right ~20–50 accounts (industry insiders, other fashion commentary accounts, key designers/houses) rather than a sprawling, unfocused follow list.
+5. **Live web research for whitespace** — actively checking what the wider fashion press (Business of Fashion, WWD, Vogue Business, Fashionista) is reporting that hasn't yet trickled into this specific niche of Instagram commentary accounts. See `WHITESPACE.md` for six concrete, currently-live examples found this way.
+
+## The automation system, and why it exists
+
+A one-time analysis goes stale within weeks — fashion news and trends move fast. The `scripts/` pipeline exists to keep this a *living* research base instead of a snapshot:
+
+- `scrape_accounts.py` — pulls only new posts since the last run (tracked in `scripts/state.json`), so the dataset grows every week without manual re-work or duplication
+- `check_trends.py` — a weekly Google Trends pulse-check on recurring fashion keywords, to catch rising trends before they're obvious
+- `build_outputs.py` — regenerates the combined CSV/Excel/links file from all accumulated data, keeping one canonical, always-current dataset
+- A weekly cadence (once scheduled) means content ideas are always grounded in *this week's* reality, not a one-time research sprint that ages out of relevance
+
+## How to actually use everything in this repo
+
+- **Before posting anything**, check `WHITESPACE.md` and `CONTENT_IDEAS.md` for angles that are both proven-to-work *and* currently uncovered — that's the highest-leverage starting point for any single post.
+- **When deciding on voice/format**, use the account-by-account breakdown above deliberately — pick traits on purpose (anonymous vs. named, high-volume vs. low-volume-high-impact, aggregation vs. original reporting) rather than drifting into whatever feels natural.
+- **When fashion news breaks**, check `fashion_ig_scraped_data.csv`'s driver categories to gut-check whether it's the kind of story that tends to perform (death/tragedy, scandal, creative-director shakeups) before deciding how much effort to put into covering it fast.
+- **Every week**, treat `CONTENT_IDEAS.md` as a living planning document that gets regenerated from fresh data — review it before planning that week's content, not once and never again.
+- **Once the new page is live**, its own post performance should eventually be folded back into this same structure — turning this from "research about other people's accounts" into a continuous feedback loop for the new account's own results.
 
 ## The honest caveat
 
-This tells you what *worked for these five accounts, recently*. It doesn't guarantee anything transfers directly — audiences, algorithms, and news cycles shift. Treat this as a strong starting hypothesis to test quickly, not a formula to follow blindly. The fastest way to find out if any of this actually works is to post, watch what happens, and feed those results back in.
+This tells you what *worked for these five accounts, recently*. It doesn't guarantee anything transfers directly — audiences, algorithms, and news cycles shift constantly. Treat this as a strong starting hypothesis to test quickly, not a formula to follow blindly. The fastest way to find out what actually works for a *new* account is to post, watch real results, and feed them back into this same analysis loop.
