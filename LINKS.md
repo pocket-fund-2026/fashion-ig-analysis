@@ -206,7 +206,7 @@ Every post scraped in this dataset, grouped by account, newest first.
 - [2026-07-27](https://www.instagram.com/p/DbTrv1up9I-/) — 23920.0 likes, 33 comments
 - [2026-07-27](https://www.instagram.com/p/DbTpd6MJLLh/) — 10542.0 likes, 41 comments
 
-## @thevofashion (9 posts)
+## @thevofashion (33 posts)
 
 - [2026-08-24](https://www.instagram.com/p/DcaZNxRyZSe/) — 22 likes, 0 comments
 - [2026-08-22](https://www.instagram.com/p/DcV6_qqyDi0/) — 43 likes, 1 comments
@@ -217,8 +217,32 @@ Every post scraped in this dataset, grouped by account, newest first.
 - [2026-08-18](https://www.instagram.com/p/DcLeF_mEliw/) — 173 likes, 1 comments
 - [2026-08-17](https://www.instagram.com/p/DcJNMvFEmoE/) — 141 likes, 3 comments
 - [2026-08-17](https://www.instagram.com/p/DcJE3zjkug4/) — 53 likes, 1 comments
+- [2026-08-14](https://www.instagram.com/p/DcBTUqoEv7M/) — 178 likes, 0 comments
+- [2026-08-13](https://www.instagram.com/p/Db-sYC-kuVd/) — 236 likes, 3 comments
+- [2026-08-11](https://www.instagram.com/p/Db5wTw7EiAL/) — 24 likes, 0 comments
+- [2026-08-10](https://www.instagram.com/p/Db3ISwukuik/) — 127 likes, 3 comments
+- [2026-08-10](https://www.instagram.com/p/Db24sI6kj_9/) — 163 likes, 2 comments
+- [2026-08-08](https://www.instagram.com/p/DbxNriSkvHB/) — 771 likes, 11 comments
+- [2026-08-07](https://www.instagram.com/p/DbvTvmgklxx/) — 266 likes, 22 comments
+- [2026-08-07](https://www.instagram.com/p/DbvNtIjy0aA/) — 190 likes, 3 comments
+- [2026-08-06](https://www.instagram.com/p/Dbs9SLBks_8/) — 485 likes, 13 comments
+- [2026-08-06](https://www.instagram.com/p/Dbsl7rbyGrg/) — 79 likes, 2 comments
+- [2026-08-05](https://www.instagram.com/p/DbqKr1ukkMQ/) — 108 likes, 0 comments
+- [2026-08-04](https://www.instagram.com/p/DbneMjOkufW/) — 295 likes, 5 comments
+- [2026-08-03](https://www.instagram.com/p/DblOKp4EiAu/) — 61 likes, 2 comments
+- [2026-08-03](https://www.instagram.com/p/Dbk-yeNEvtr/) — 101 likes, 1 comments
+- [2026-08-01](https://www.instagram.com/p/DbfXXhFkilv/) — 478 likes, 14 comments
+- [2026-07-30](https://www.instagram.com/p/Dba3hxVEqpV/) — 76 likes, 0 comments
+- [2026-07-30](https://www.instagram.com/p/DbaxhUukt1P/) — 1227 likes, 15 comments
+- [2026-07-29](https://www.instagram.com/p/DbYKaL4ks2R/) — 527 likes, 0 comments
+- [2026-07-28](https://www.instagram.com/p/DbVlqUoDFwh/) — 116 likes, 0 comments
+- [2026-07-28](https://www.instagram.com/p/DbVcxK3DC4t/) — 80 likes, 1 comments
+- [2026-07-27](https://www.instagram.com/p/DbTGmzOS-lz/) — 44 likes, 0 comments
+- [2026-07-27](https://www.instagram.com/p/DbS1RKfEqWd/) — 92 likes, 0 comments
+- [2026-07-26](https://www.instagram.com/p/DbQRYXLkppJ/) — 97 likes, 1 comments
+- [2026-07-26](https://www.instagram.com/p/DbQAwmlkglK/) — 46 likes, 0 comments
 
-## @sufimotiwala (6 posts)
+## @sufimotiwala (23 posts)
 
 - [2026-08-23](https://www.instagram.com/p/DcYNVwUItqZ/) — 9802 likes, 54 comments
 - [2026-08-20](https://www.instagram.com/p/DcQf_ZPIdqP/) — 32467 likes, 62 comments
@@ -226,3 +250,20 @@ Every post scraped in this dataset, grouped by account, newest first.
 - [2026-08-17](https://www.instagram.com/p/DcJXlIrIHOy/) — 7258 likes, 66 comments
 - [2026-08-17](https://www.instagram.com/p/DcI1C6vIUPc/) — 7925 likes, 18 comments
 - [2026-08-16](https://www.instagram.com/p/DcGzUaiiGhy/) — 7678 likes, 24 comments
+- [2026-08-10](https://www.instagram.com/p/Db3BNGhCAKV/) — 3220 likes, 41 comments
+- [2026-08-09](https://www.instagram.com/p/Db0W-lomeJq/) — 13850 likes, 137 comments
+- [2026-08-06](https://www.instagram.com/p/Dbs0jntmUGM/) — 217060 likes, 1696 comments
+- [2026-08-05](https://www.instagram.com/p/DbqdQDWiKGW/) — 492011 likes, 2348 comments
+- [2026-08-05](https://www.instagram.com/p/Dbp7tJiiC2z/) — 3374 likes, 134 comments
+- [2026-08-04](https://www.instagram.com/p/Dbm7uplIIaQ/) — 56497 likes, 223 comments
+- [2026-08-02](https://www.instagram.com/p/Dbij_w1iW7g/) — 3751 likes, 65 comments
+- [2026-08-02](https://www.instagram.com/p/DbiOF1lI3j5/) — 35673 likes, 157 comments
+- [2026-08-01](https://www.instagram.com/p/DbgDCBnIb2w/) — 53405 likes, 205 comments
+- [2026-08-01](https://www.instagram.com/p/Dbfg9_3ILCy/) — 122363 likes, 259 comments
+- [2026-07-29](https://www.instagram.com/p/DbYLs0WmRrB/) — 25375 likes, 421 comments
+- [2026-07-28](https://www.instagram.com/p/DbVbsxOIve6/) — 139194 likes, 909 comments
+- [2026-07-27](https://www.instagram.com/p/DbTLqSCIvzY/) — 117080 likes, 1019 comments
+- [2026-07-27](https://www.instagram.com/p/DbSIrT1iaib/) — 657077 likes, 3070 comments
+- [2026-07-26](https://www.instagram.com/p/DbQ_zFLo2Xa/) — 473569 likes, 3207 comments
+- [2026-07-26](https://www.instagram.com/p/DbQym0AmbCU/) — 156099 likes, 1503 comments
+- [2026-07-26](https://www.instagram.com/p/DbPpMcik1Wi/) — 84639 likes, 2079 comments
