@@ -7,7 +7,11 @@ Researched via live web search (Aug 2026) and cross-checked against all 185 scra
 
 - **Source:** [Olivier Rousteing Is Rabanne's New Creative Director — Fashionista](https://fashionista.com/2026/07/olivier-rousteing-rabanne-creative-director)
 - **Suggested image:** Rabanne's own official announcement photo of Rousteing (from their newsroom/press site or official @rabanne / @olivierrousteing Instagram) — do not screenshot from a news article; go to the brand's or designer's own post and use/repost with credit, or license via Getty Images editorial search ("Olivier Rousteing Rabanne 2026").
-- **Image link found:** [Olivier Rousteing / Rabanne photo — via Vogue Scandinavia](https://images.vs-static.com/SWvXwgvL-ZAnlXCgpgxEhS9sN8Q=/0x3:892x1341/750x0/Olivier_Rousteing_Rabanne_png_090c6e0ed4/Olivier_Rousteing_Rabanne_png_090c6e0ed4.jpg) — ⚠️ shown as a link, not embedded: editorial/press photo owned by Vogue Scandinavia or their photo agency; needs a license or credit-with-permission before reposting, not free to use as-is.
+- **Image link found:** ✅ swapped for a cleaner option — Wikimedia Commons portrait of Olivier Rousteing, openly licensed (Creative Commons, attribution required per its Commons license page) instead of the non-free editorial photo:
+
+[![Olivier Rousteing portrait](https://upload.wikimedia.org/wikipedia/commons/1/1e/Olivier_Rousteing.jpg)](https://commons.wikimedia.org/wiki/File:Olivier_Rousteing.jpg)
+
+(The original non-free Vogue Scandinavia editorial photo is still available as a link if preferred once properly licensed: [here](https://images.vs-static.com/SWvXwgvL-ZAnlXCgpgxEhS9sN8Q=/0x3:892x1341/750x0/Olivier_Rousteing_Rabanne_png_090c6e0ed4/Olivier_Rousteing_Rabanne_png_090c6e0ed4.jpg).)
 - **Draft caption:** *"okay wait we need to talk about this 👀🕶️ olivier rousteing (14 yrs at balmain!!) is officially the new creative director of rabanne, replacing julien dossena after 13 yrs at the house. his debut isn't until paris fashion week march 2027 but we already have thoughts on what a rousteing-era rabanne could look like — comment ur predictions 👇 #rabanne #olivierrousteing #creativedirector #fashionnews"*
 
 ## 2. Mass-market creative director appointments
@@ -45,7 +49,9 @@ The resale market is projected at $66–68B in 2026, growing 11x faster than tra
 
 - **Source:** [Inclusion is In: 2026 Adaptive Inclusive Fashion Trends — Glance](https://glance.com/us/blogs/glanceai/trends/adaptive-inclusive-fashion-trends)
 - **Suggested image:** An official brand photo from an adaptive-focused label (e.g. IZ Adaptive's own site/Instagram) or Ellie Brown's London Fashion Week show imagery via her own channels/press kit — reach out or credit properly rather than screenshotting.
-- **Image link found:** [Adaptive fashion fitting scene — via Glance](https://glance-web.glance-cdn.com/vibrant_scene_person_trying_clothes_fashion_fitting_dynamic_apparel_8d5c1c4800.jpg) — ⚠️ shown as a link, not embedded: stock/editorial image on Glance's CDN, license unclear; verify before use or swap for an equivalent Unsplash/Pexels photo instead.
+- **Image link found:** ✅ swapped for a cleaner option — free-to-use Unsplash photo instead of the unclear-license Glance stock image:
+
+[![People in wheelchairs outside a shop](https://images.unsplash.com/photo-1778164346013-6aacf3c837a1)](https://unsplash.com/s/photos/adaptive-clothing)
 - **Draft caption:** *"quietly one of the biggest fashion stories of 2026 and nobody's covering it 👀 adaptive fashion is going mainstream — think hidden magnetic closures, seated-cut trousers for wheelchair users, extended size ranges, even disney adding adaptive fits to park boutiques. ellie brown showed an adaptive line at london fashion week this yr too. this is what actual innovation in fashion looks like. #adaptivefashion #inclusivefashion #fashionnews"*
 
 ## 6. The AI-generated-campaign backlash
@@ -53,7 +59,11 @@ Gucci's AI-generated Milan Fashion Week campaign imagery ("PRIMAVERA") drew sign
 
 - **Source:** [Gucci Sparks Backlash After Using AI Models For Milan Fashion Week Campaign — Outlook Luxe](https://luxe.outlookindia.com/fashion-beauty/couture/gucci-sparks-backlash-after-using-ai-models-for-milan-fashion-week-campaign)
 - **Suggested image:** Do not repost the actual AI-generated Gucci campaign images (doubly risky — copyrighted by Gucci AND the center of the controversy). Instead use a simple text-based graphic/quote-card format stating the survey stat (only 24% think AI imagery matches human-made work) — safe, original, and still visually strong.
-- **Image link found:** none provided — deliberately not sourced. The actual "PRIMAVERA" images are Gucci's copyrighted property and are themselves the contested material at the center of the controversy, making them the highest-risk asset of all six stories to repost. Build the original quote-card graphic instead.
+- **Image link found:** the actual "PRIMAVERA" AI-generated images are still deliberately not linked — they're Gucci's copyrighted property and the contested material itself. As a safe substitute, here's an openly-licensed Wikimedia Commons photo of a Gucci storefront to illustrate the brand without touching the disputed imagery:
+
+[![Gucci store, Sydney](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Gucci_Store_In_Sydney_%28262187111%29.jpeg)](https://commons.wikimedia.org/wiki/Category:Gucci)
+
+For the actual controversy, building the original quote-card graphic (survey stat: only 24% think AI imagery matches human-made work) is still the best content approach.
 - **Draft caption:** *"gucci really said "AI slop" apparently 😬 their new PRIMAVERA campaign dropped with AI-generated imagery right as demna gvasalia preps his debut collection amid a reported 22% sales slump, and the internet is NOT vibing — critics are calling it cheap & lazy for a house built on craftsmanship. a recent vogue business/gq survey found only 24% of readers think AI campaign imagery even matches human-made work. is this innovation or a shortcut?? #gucci #aiinfashion #fashionnews #primaveracampaign"*
 
 ## How to use this
