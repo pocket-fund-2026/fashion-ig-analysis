@@ -19,7 +19,18 @@ git push
 
 ## State tracking
 
-`scripts/state.json` records, per account, the timestamp of the newest post seen so far. Each run of `scrape_accounts.py` only pulls posts newer than that, so re-running never re-downloads or duplicates existing posts (also de-duplicated by shortcode as a second safety net).
+`scripts/state.json` records, per account, the timestamp of the newest post seen so far. Each run of `scrape_accounts.py` only pulls posts newer than that, so re-running never re-downloads or duplicates existing posts (also de-duplicated by shortcode as a second safety net). New accounts added to `ACCOUNTS` with no existing state default to an 8-day lookback on their first run.
+
+## Tracked accounts (10)
+
+Original 5 (global): `dietsabya`, `diet_prada`, `stylenotcom`, `thefashionobserve`, `databutmakeitfashion`
+
+Added Aug 2026 — Indian fashion scene: `thevofashion`, `bollywood_fashionpolice`, `sufimotiwala`, `indiarunwayweek`, `theindiastylefashionweek`
+
+## Known issues
+
+- **`theindiastylefashionweek`** currently fails to load with `400 Bad Request - "Asset asset://laser.provider/ig_business_category_subvertical has been deleted"` from Instagram's profile API — reproduced consistently across multiple runs (Aug 24, 2026), so likely an account-type/schema incompatibility with this Instaloader version rather than a transient error. Left in the `ACCOUNTS` list so it retries automatically if Instagram/Instaloader resolve it; check `scripts/state.json` (absence of an entry means it's never successfully scraped) before assuming it's working.
+- **`bollywood_fashionpolice`** and **`indiarunwayweek`** returned 0 posts on their first (8-day lookback) run — either they simply haven't posted recently, or worth spot-checking manually if this persists for multiple weekly runs.
 
 ## Notes
 

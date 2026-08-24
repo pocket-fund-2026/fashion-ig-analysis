@@ -1,12 +1,20 @@
 # Fashion IG Analysis
 
-Scraped Instagram post data (metadata only — captions, engagement stats, hashtags, mentions, post URLs) for 5 fashion-commentary accounts, covering the last 30 days (~Jul 25 – Aug 24, 2026):
+Scraped Instagram post data (metadata only — captions, engagement stats, hashtags, mentions, post URLs) for 10 fashion-commentary accounts.
 
+**Original 5 (global, last 30 days as of Aug 24, 2026):**
 - [@dietsabya](https://www.instagram.com/dietsabya)
 - [@diet_prada](https://www.instagram.com/diet_prada)
 - [@stylenotcom](https://www.instagram.com/stylenotcom)
 - [@thefashionobserve](https://www.instagram.com/thefashionobserve)
 - [@databutmakeitfashion](https://www.instagram.com/databutmakeitfashion)
+
+**Added Aug 2026 — Indian fashion scene:**
+- [@thevofashion](https://www.instagram.com/thevofashion/) — The Voice of Fashion, a digital magazine tracking Indian fashion/design/culture
+- [@bollywood_fashionpolice](https://www.instagram.com/bollywood_fashionpolice/) — tabloid-style commentary on Bollywood celebrity fashion
+- [@sufimotiwala](https://www.instagram.com/sufimotiwala/) — personality-led red-carpet rating Reels, honest/humor-driven celebrity style reviews
+- [@indiarunwayweek](https://www.instagram.com/indiarunwayweek/) — official India Runway Week account, runway/collection coverage
+- [@theindiastylefashionweek](https://www.instagram.com/theindiastylefashionweek/) — official account for India's national-level (Delhi NCR) fashion week
 
 ## Contents
 

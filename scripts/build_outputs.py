@@ -11,7 +11,10 @@ import pandas as pd
 
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RAW_DIR = os.path.join(REPO_ROOT, "raw_jsonl")
-ACCOUNTS = ["dietsabya", "diet_prada", "stylenotcom", "thefashionobserve", "databutmakeitfashion"]
+ACCOUNTS = [
+    "dietsabya", "diet_prada", "stylenotcom", "thefashionobserve", "databutmakeitfashion",
+    "thevofashion", "bollywood_fashionpolice", "sufimotiwala", "indiarunwayweek", "theindiastylefashionweek",
+]
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from categorize import categorize  # noqa: E402

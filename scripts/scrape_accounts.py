@@ -17,7 +17,10 @@ import time
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 STATE_PATH = os.path.join(REPO_ROOT, "scripts", "state.json")
 RAW_DIR = os.path.join(REPO_ROOT, "raw_jsonl")
-ACCOUNTS = ["dietsabya", "diet_prada", "stylenotcom", "thefashionobserve", "databutmakeitfashion"]
+ACCOUNTS = [
+    "dietsabya", "diet_prada", "stylenotcom", "thefashionobserve", "databutmakeitfashion",
+    "thevofashion", "bollywood_fashionpolice", "sufimotiwala", "indiarunwayweek", "theindiastylefashionweek",
+]
 
 os.makedirs(RAW_DIR, exist_ok=True)
 
@@ -65,7 +68,7 @@ def main():
         # default lookback: 8 days if we've never scraped this account before
         last_scraped_iso = acct_state.get("last_post_seen_at")
         if last_scraped_iso:
-            cutoff = datetime.datetime.fromisoformat(last_scraped_iso)
+            cutoff = datetime.datetime.fromisoformat(last_scraped_iso).replace(tzinfo=None)
         else:
             cutoff = datetime.datetime.utcnow() - datetime.timedelta(days=8)
 
