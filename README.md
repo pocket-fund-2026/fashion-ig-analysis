@@ -11,7 +11,7 @@ Scraped Instagram post data (metadata only — captions, engagement stats, hasht
 
 **Indian fashion scene — 4 actively scraped (added Aug 2026, verified genuinely active and fashion-specific):**
 - [@thevofashion](https://www.instagram.com/thevofashion/) — The Voice of Fashion, a digital magazine tracking Indian fashion/design/culture
-- [@sufimotiwala](https://www.instagram.com/sufimotiwala/) — personality-led red-carpet rating Reels, honest/humor-driven celebrity style reviews
+- [@sufimotiwala](https://www.instagram.com/sufimotiwala/) — originally identified via web research as a red-carpet-rating fashion critic, but **the actual scraped posts (Aug 2026) show his top content is personal-life posts tied to his run on the reality show "Lock Upp: Sach Ya Sazaa," not fashion commentary** (see `CONTENT_IDEAS.md` for detail). Kept in the dataset for now, but not a reliable fashion-critique reference until his content mix shifts back.
 - [@fashioneditindia](https://www.instagram.com/fashioneditindia/) — tracking fashion, art & culture; global fashion, designers, people
 - [@fashionrevolutionindia](https://www.instagram.com/fashionrevolutionindia/) — campaigning for a better fashion industry (0 posts in the current 30-day window — its last post fell just outside the cutoff; expected to populate on the next weekly run)
 - [@mallikasinghania](https://www.instagram.com/mallikasinghania/) — fashion/beauty/lifestyle, showcasing home-grown Indian designer wear

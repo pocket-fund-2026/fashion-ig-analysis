@@ -13,4 +13,26 @@ Generated from the top-performing posts across @dietsabya, @diet_prada, @styleno
 5. **"Unsung Object of the Week"** — @thefashionobserve repeatedly elevates mundane objects (hangers, socks, screenshots) into fashion commentary — light, cheap to produce, meme-friendly. A weekly "everyday thing, fashion lens" micro-series fills gaps between bigger news-driven posts.
 
 ---
+
+# Content Ideas — From the Indian Fashion Accounts
+
+Generated from actual scraped posts across @thevofashion, @sufimotiwala, @fashioneditindia, @fashionrevolutionindia, and @mallikasinghania (last 30 days, 67 posts total). One important correction surfaced during this pass — see below before using @sufimotiwala as a reference model.
+
+## Correction: @sufimotiwala is not currently a fashion-critique account
+
+Earlier documentation (README.md, SOUL.md) described @sufimotiwala as doing "personality-led red-carpet rating Reels" based on web research. **The actual scraped posts contradict this.** His top posts (657K, 492K, 473K likes — by far the highest engagement of any account in this entire dataset, global or Indian) are personal-life content tied to his run as a contestant on the Indian reality show *Lock Upp: Sach Ya Sazaa*, not fashion commentary. Only a handful of his 30-day posts (e.g. one outfit-credit post at 217K likes) touch fashion at all, and even that reads as an incidental outfit-tag rather than critique. **Do not use his account as a model for "personality-led fashion criticism" until his content mix shifts back — right now he's functioning as a reality-TV personality account that happens to be fashion-adjacent, not a fashion account.** This will be corrected in README.md/SOUL.md.
+
+## Content ideas from the accounts that ARE genuinely fashion-focused
+
+1. **"Craft Provenance" deep-dive format** — @thevofashion's post tracing the sari's temple-border motifs through history, and another tracing a corporate-lawyer-turned-textile-designer's research into sari provenance via paintings/literature/sculpture, both represent a recurring high-value format: take one specific textile/craft element and trace its cultural lineage. Evergreen, differentiated from tabloid/news content, and plays to India's deep textile heritage as an actual competitive advantage over the global accounts (none of which could credibly do this).
+
+2. **"Industry Milestone" spotlighting** — Sabyasachi opening a new 26,000 sq ft Delhi store, Longform marking 25 years with a founder interview, the Pirelli Calendar being shot in India for the first time in its history — @thevofashion consistently covers institutional milestones/firsts rather than just product drops. A recurring "first/biggest/oldest" framing device for Indian fashion institutions is a differentiated, non-gossip angle.
+
+3. **"Designer Point of View" profile format** — @mallikasinghania's designer spotlights (e.g. highlighting a designer with "a point of view") and @thevofashion's founder/designer interviews both suggest short profile pieces on individual designers' philosophy — not just their clothes — perform reasonably and are easy to produce on a rolling basis from India's large working-designer base.
+
+4. **Event/pop-up curation coverage** — @fashioneditindia and @mallikasinghania both cover curated multi-brand events, warehouse sales, and pop-ups (e.g. "The Warehouse Sale," "The Dressing Room," "The Polkaa Dots"). This is a lower-effort, evergreen content bucket: attend/cover a curated shopping event, tag the brands, done — good for filling gaps between bigger stories.
+
+5. **"Gen Z Redefining Luxury" trend framing** — @thevofashion's piece on how luxury for Gen Z is "no longer simply about what you own... it is about individuality, provenance, experience" is a trend-analysis format that could be run repeatedly with different angles (Gen Z and sustainability, Gen Z and resale, Gen Z and craft) — ties directly into the resale/circular-economy whitespace story already in `WHITESPACE.md`.
+
+---
 *This file will be regenerated/appended each week once the weekly scrape automation is in place.*
