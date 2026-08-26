@@ -33,5 +33,42 @@
       "fashioneditindia": 18.0,
       "mallikasinghania": 330.1111111111111
     }
+  },
+  {
+    "date": "2026-08-26",
+    "total_posts": 408,
+    "overall_avg_likes": 16214.028571428571,
+    "uncategorized_pct": 12.254901960784315,
+    "cat_avgs": {
+      "Uncategorized/other": 29611.4,
+      "Community engagement/interactive prompt": 10857.0,
+      "Celebrity/pop-culture gossip (off-fashion)": 17289.555555555555,
+      "Creative director/designer appointment or exit": 5670.5,
+      "Runway/show/collection recap": 14619.91304347826,
+      "Fashion history/archive/designer profile/museum": 16873.6,
+      "Scandal/lawsuit/controversy": 22946.166666666668,
+      "Humor/meme/relatable lifestyle": 33198.166666666664,
+      "Brand launch/drop/store/pop-up": 7398.266666666666,
+      "Accessory/beauty product spotlight": 3126.46875,
+      "Death/tragedy": 45065.1,
+      "Celebrity styling/endorsement/campaign": 3097.277777777778,
+      "Style tips & trend commentary": 9209.931034482759,
+      "Culture/lifestyle crossover (art, music, festival, pride)": 1491.8,
+      "Nostalgia/throwback/pop-culture callback": 1334.5,
+      "Brand feature/editorial spotlight": 1187.4545454545455,
+      "Trend & data analysis": 20300.2
+    },
+    "acct_avgs": {
+      "dietsabya": 7446.823529411765,
+      "diet_prada": 68979.38888888889,
+      "thefashionobserve": 3071.6111111111113,
+      "databutmakeitfashion": 23744.736842105263,
+      "thevofashion": 248.22222222222223,
+      "sufimotiwala": 119467.65217391304,
+      "fashioneditindia": 18.0,
+      "mallikasinghania": 330.1111111111111,
+      "brownfashiongal": 1586.8108108108108,
+      "manifest.ind": 1387.7083333333333
+    }
   }
 ]

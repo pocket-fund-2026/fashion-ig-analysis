@@ -20,6 +20,7 @@ RAW_DIR = os.path.join(REPO_ROOT, "raw_jsonl")
 ACCOUNTS = [
     "dietsabya", "diet_prada", "stylenotcom", "thefashionobserve", "databutmakeitfashion",
     "thevofashion", "sufimotiwala", "fashioneditindia", "fashionrevolutionindia", "mallikasinghania",
+    "brownfashiongal", "manifest.ind",
 ]
 
 os.makedirs(RAW_DIR, exist_ok=True)

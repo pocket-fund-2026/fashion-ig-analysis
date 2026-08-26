@@ -15,7 +15,7 @@ In plain terms: Instagram appears to have deprecated or removed an internal fiel
 
 We're on the latest available Instaloader version (4.15.3, confirmed against both Homebrew and PyPI — no newer release exists as of Aug 24, 2026), so there's no update available yet that works around this.
 
-## Affected accounts (11)
+## Affected accounts (13)
 
 All verified as real, legitimate fashion-relevant Instagram accounts via web research — just currently inaccessible to this scraping pipeline:
 
@@ -32,6 +32,8 @@ All verified as real, legitimate fashion-relevant Instagram accounts via web res
 | [@indianfashionhubb](https://www.instagram.com/indianfashionhubb/) | Indian fashion/wedding style/celebrity glamour hub |
 | [@indiannfashion](https://www.instagram.com/indiannfashion/) | "The Indian Fashion" official account |
 | [@the.estd](https://www.instagram.com/the.estd/) | The Established — Indian fashion/culture digital publication |
+| [@diet_paratha](https://www.instagram.com/diet_paratha/) | Fashion-commentary account (user-suggested) |
+| [@currentmood.mag](https://www.instagram.com/currentmood.mag/) | Fashion/culture magazine account (user-suggested) |
 
 ## What to do about it
 

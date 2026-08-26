@@ -1,12 +1,12 @@
 # Fashion IG Analysis
 
-Scraped Instagram post data (metadata only — captions, engagement stats, hashtags, mentions, post URLs) for **9 actively-scraped fashion-focused accounts**.
+Scraped Instagram post data (metadata only — captions, engagement stats, hashtags, mentions, post URLs) for **11 actively-scraped fashion-focused accounts**.
 
 **Original 5 (global, last 30 days as of Aug 24, 2026):**
 - [@dietsabya](https://www.instagram.com/dietsabya)
 - [@diet_prada](https://www.instagram.com/diet_prada)
 - [@stylenotcom](https://www.instagram.com/stylenotcom)
-- [@thefashionobserve](https://www.instagram.com/thefashionobserve)
+- [@thefashionobserve](https://www.instagram.com/thefashionobserve) — **⚠️ as of Aug 26, 2026 this profile returns "does not exist" (confirmed via 3 retries, not transient) — possibly caught in Instagram's broader 2026 mass account-ban wave, or renamed. Historical data (116 posts) is retained; kept in the active `ACCOUNTS` list in case it comes back.**
 - [@databutmakeitfashion](https://www.instagram.com/databutmakeitfashion)
 
 **Indian fashion scene — 4 actively scraped (added Aug 2026, verified genuinely active and fashion-specific):**
@@ -16,10 +16,14 @@ Scraped Instagram post data (metadata only — captions, engagement stats, hasht
 - [@fashionrevolutionindia](https://www.instagram.com/fashionrevolutionindia/) — campaigning for a better fashion industry (0 posts in the current 30-day window — its last post fell just outside the cutoff; expected to populate on the next weekly run)
 - [@mallikasinghania](https://www.instagram.com/mallikasinghania/) — fashion/beauty/lifestyle, showcasing home-grown Indian designer wear
 
+**Added Aug 26, 2026 (user-suggested), 2 actively scraped:**
+- [@brownfashiongal](https://www.instagram.com/brownfashiongal/) — writer/commentator on high fashion & luxury, archival/insider fashion-history focus
+- [@manifest.ind](https://www.instagram.com/manifest.ind/) — Manifest Life India, a wedding-forward luxury lifestyle magazine
+
 **Found but NOT actively scraped:**
 - [@elleindia](https://www.instagram.com/elleindia/) — Elle's official India edition. Verified real/active/fashion-specific, but has an unusually high posting volume (multiple times/day) that made a 30-day Instaloader backfill too slow to complete reliably. Excluded from the pipeline for now — not a quality issue, just a throughput one. Could be revisited with a shorter lookback window (e.g. 7 days instead of 30) if wanted.
 
-**Not currently scrapable:** 11 additional legitimate Indian fashion accounts (Vogue India, FDCI, Lakme Fashion Week, WWD India, and others) are blocked by a current Instagram API bug — see [`UNSCRAPABLE_ACCOUNTS.md`](./UNSCRAPABLE_ACCOUNTS.md) for the full list and technical explanation.
+**Not currently scrapable:** 13 additional legitimate fashion accounts (Vogue India, FDCI, Lakme Fashion Week, WWD India, Diet Paratha, Current Mood Mag, and others) are blocked by a current Instagram API bug — see [`UNSCRAPABLE_ACCOUNTS.md`](./UNSCRAPABLE_ACCOUNTS.md) for the full list and technical explanation.
 
 ## Contents
 

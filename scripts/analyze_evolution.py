@@ -30,6 +30,7 @@ INSIGHTS_PATH = os.path.join(REPO_ROOT, "INSIGHTS.md")
 ACCOUNTS = [
     "dietsabya", "diet_prada", "stylenotcom", "thefashionobserve", "databutmakeitfashion",
     "thevofashion", "sufimotiwala", "fashioneditindia", "fashionrevolutionindia", "mallikasinghania",
+    "brownfashiongal", "manifest.ind",
 ]
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))

@@ -35,4 +35,22 @@ Earlier documentation (README.md, SOUL.md) described @sufimotiwala as doing "per
 5. **"Gen Z Redefining Luxury" trend framing** — @thevofashion's piece on how luxury for Gen Z is "no longer simply about what you own... it is about individuality, provenance, experience" is a trend-analysis format that could be run repeatedly with different angles (Gen Z and sustainability, Gen Z and resale, Gen Z and craft) — ties directly into the resale/circular-economy whitespace story already in `WHITESPACE.md`.
 
 ---
+
+# Content Ideas — From @brownfashiongal and @manifest.ind (added Aug 2026)
+
+Generated from actual scraped posts: @brownfashiongal (37 posts, archival/insider fashion history commentator) and @manifest.ind (105 posts, wedding-forward luxury lifestyle magazine).
+
+1. **"Origin Story" format** — @brownfashiongal's post on the real story behind a viral razor-blade dress (from the designer himself) was a top performer. A recurring "here's what actually happened behind [viral/iconic piece]" format works because it satisfies curiosity a viral moment creates but doesn't resolve on its own.
+
+2. **"Archival Editorial Rediscovery"** — resurfacing a specific historic editorial (e.g. a 2006 Vogue Kirsten-Dunst-as-Marie-Antoinette story) with context on why it mattered performed among @brownfashiongal's best. Distinct from the "Then vs. Now" pairing idea already listed — this is pure archival resurfacing with no modern comparison needed, which is cheap to produce (no current-news dependency) and taps nostalgia.
+
+3. **"Designer Tenure Retrospective"** — a shoot marking Galliano's 5th year at Dior (paired with a specific photographer's body of work) performed well. A recurring format marking creative-director work anniversaries with a mini visual retrospective ties directly into the "creative directors in flux" tracking already flagged as a top-performing topic in `SOUL.md`.
+
+4. **"Digital Cover" multi-post rollout** — @manifest.ind's Randeep Hooda cover story was split across 3 separate posts (main cover reveal, behind-the-scenes angle, personal-life angle) and all 3 ranked in their top 5 by likes. Rolling out one big interview/feature as a multi-post series instead of a single post extracts more total engagement from one piece of access-driven content. Aspirational for a new account (requires actual talent access), but worth planning toward once the page has traction.
+
+5. **"Showstopper Recap"** — designer/celebrity fashion-week-closing moments (e.g. an actor closing India Couture Week for a specific designer's debut) are real-time event coverage that performs reliably and is plannable around known fashion-week calendars.
+
+6. **"Wedding Tradition" narrative series** — @manifest.ind runs a numbered "Threads of Tradition" chapter series on the cultural meaning behind wedding-day clothing choices. A recurring narrative/chapter format (not single posts) builds a reason to follow for the next installment — useful as a low-news-dependency evergreen bucket specific to Indian wedding fashion, distinct from the craft-provenance idea already listed (this is narrative/cultural-meaning framing rather than technical/textile-history framing).
+
+---
 *This file will be regenerated/appended each week once the weekly scrape automation is in place.*
