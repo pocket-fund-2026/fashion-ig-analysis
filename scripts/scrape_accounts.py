@@ -12,6 +12,7 @@ import instaloader
 import datetime
 import json
 import os
+import random
 import time
 
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -24,6 +25,16 @@ ACCOUNTS = [
 ]
 
 os.makedirs(RAW_DIR, exist_ok=True)
+
+
+class GentleRateController(instaloader.RateController):
+    """Adds a floor delay before every request so we stay well under
+    Instagram's per-window thresholds instead of bursting until we hit a 429
+    and relying on its backoff."""
+
+    def query_waittime(self, query_type, current_time, untracked_queries=False):
+        base = super().query_waittime(query_type, current_time, untracked_queries)
+        return max(base, random.uniform(6, 10))
 
 
 def load_state():
@@ -61,7 +72,22 @@ def main():
         save_metadata=False,
         compress_json=False,
         quiet=True,
+        rate_controller=lambda ctx: GentleRateController(ctx),
     )
+
+    login_user = os.environ.get("IG_LOGIN_USER")
+    if login_user:
+        try:
+            L.load_session_from_file(login_user)
+            print(f"Loaded saved session for {login_user}", flush=True)
+        except FileNotFoundError:
+            print(
+                f"No saved session for {login_user} — run "
+                f"'.venv/bin/instaloader --login={login_user}' once first "
+                f"to create one interactively.",
+                flush=True,
+            )
+            return
 
     for username in ACCOUNTS:
         print(f"=== {username} ===", flush=True)
@@ -115,7 +141,7 @@ def main():
                     "accessibility_caption": post.accessibility_caption,
                 }
                 new_records.append(rec)
-                time.sleep(0.15)
+                time.sleep(random.uniform(1.5, 3.0))
         except Exception as e:
             print(f"ERROR during iteration for {username}: {e}", flush=True)
 
@@ -131,7 +157,7 @@ def main():
             "new_posts_last_run": len(new_records),
         }
         save_state(state)
-        time.sleep(0.5)
+        time.sleep(random.uniform(20, 35))
 
     print("SCRAPE_DONE")
 
