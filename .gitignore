@@ -4,3 +4,5 @@ __pycache__/
 .venv/
 session-*
 *.session
+pinterest-automation/images/*
+!pinterest-automation/images/.gitkeep
